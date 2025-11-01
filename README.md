@@ -1,4 +1,3 @@
-# teos-ai-auditor
 # TEOS-AI-Auditor
 
 **Civic Audit Engine for Egypt’s Digital Resurrection**
