@@ -1,7 +1,16 @@
 # TEOS-AI-Auditor
 
 **Civic Audit Engine for Egypt’s Digital Resurrection**
+## 🛑 PROPRIETARY & CONFIDENTIAL — TEOS EGYPT
+[![Strictly Proprietary](https://img.shields.io/badge/Strictly%20Proprietary-TEOS%20Sovereign%20License-ff0000?style=for-the-badge)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
 
+> Copyright © 2025 Elmahrosa International. All Rights Reserved.  
+> This material is NOT open source and is protected by the TEOS Egypt Sovereign License (TESL).  
+> For the full license text, see [TEOS Egypt Sovereign License (TESL)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md).
+> 
+> **Initial Author:** Elmahrosa International  
+> **Governing law and venue:** Cairo, Arab Republic of Egypt.
+> 
 This module anchors transparency, governance enforcement, and contributor compliance across all Pi Studio deployments. It merges the full TEOS-AI-Auditor codebase into a single AI-readable file using Repomix. Security checks are disabled to allow full-spectrum civic audit and badge-locked scan logic.
 
 ---
