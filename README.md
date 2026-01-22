@@ -1,154 +1,185 @@
-# 🧾 TEOS-AI-Auditor | ELMAHROSA
-**Sovereign AI Audit, Evidence Export, and Regulatory Transparency Layer**
+# 🔍 TEOS AI Auditor | ELMAHROSA
+
+**Sovereign AI Audit, Evidence & Accountability Layer**
+
+<div align="center">
+
+![CI](https://github.com/Elmahrosa/TEOS-AI-Auditor/actions/workflows/ci.yml/badge.svg?branch=main)
+![Standing](https://img.shields.io/badge/Standing-Sovereign%20AI%20Audit-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-TESL%20Canonical-red?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 📍 Repository Standing
 
-This repository defines the **AI audit and evidence layer**
-for the **TEOS / Elmahrosa Sovereign Stack**.
+This repository is the **official AI audit, evidence, and accountability layer**
+of the **TEOS / Elmahrosa Sovereign Stack**.
 
-It ensures that all AI-assisted operations are:
-- traceable end-to-end
-- evidence-backed for institutional review
-- exportable for regulators and auditors
-- governed under sovereign authority
+It provides **immutable traceability, evidence generation, and institutional audit**
+for all AI-assisted actions executed within TEOS.
 
-**Founder & Owner:** Elmahrosa International — TEOS Egypt  
-**Founder Authority:** Ayman Seif
+**Founder & Authority:** Elmahrosa International — TEOS Egypt  
+**Founder:** Ayman Seif
 
 ---
 
 ## Constitutional Authority (Read First)
 
-All legitimacy and authority derive from:
+All authority derives from the  
+**International Civic Blockchain Constitution** (single source of truth):
 
-- **International Civic Blockchain Constitution (Single Source of Truth):**  
-  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
+🔗 https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
 
-Governance stewardship and lifecycle control are anchored in:
+Governance and lifecycle stewardship are anchored in:
 
-- **TEOS-FORGE (Stewardship Anchor):**  
+- **TEOS-FORGE — Governance & Stewardship Anchor**  
   https://github.com/Elmahrosa/TEOS-FORGE
 
-License authority is governed by:
-
-- **TEOS Egypt Sovereign License (TESL):**  
+- **License Authority — TEOS Egypt Sovereign License (TESL)**  
   https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
+
+This repository operates **strictly subordinate** to the above authorities.
 
 ---
 
-## Sovereign Doctrine
+## Audit Doctrine
 
 **Born in Egypt for the World**  
 *Built in Egypt. Engineered for Nations. Scaled for the World.*
 
-Elmahrosa establishes governance first.  
-Nations retain authority.  
-AI must remain auditable and revocable.
+AI must be **auditable**.  
+Automation must be **traceable**.  
+Authority must be **provable**.
 
-AI is **decision-support only**.  
-Audit evidence ensures AI never becomes an unaccountable actor.
+No AI action is legitimate unless it is:
+- logged
+- explainable
+- attributable
+- reviewable by humans and institutions
 
 ---
 
 ## What This Repository Is
 
-**TEOS-AI-Auditor** provides:
-- standardized audit event schemas for AI usage
-- evidence packages for investigations and reviews
-- regulator-ready exports and reporting formats
-- integrity checks to detect tampering or missing events
-- linkage between governance decisions, compliance gates, and AI actions
+**TEOS AI Auditor** is the **evidence and accountability layer**
+for all AI-assisted decisions and executions.
 
-> This repository is **not a monitoring dashboard only**.  
-> It is the **evidence engine** required for sovereign-grade accountability.
+It is responsible for:
+
+- Capturing AI inputs, outputs, and risk signals
+- Recording human approvals and overrides
+- Emitting immutable audit logs
+- Generating evidence packages for regulators
+- Enabling post-incident review and investigation
+- Supporting compliance, legal, and forensic audits
+
+> If it cannot be audited, it cannot be executed.
 
 ---
 
 ## What This Repository Is Not
 
-- Not an autonomous governance component
-- Not a substitute for auditors or regulators
-- Not a permissionless logging system without access control
-- Not an open-source audit toolkit for unrestricted commercial reuse
+- Not an AI control gate (see **TEOS-AI-Guard**)
+- Not a governance authority
+- Not a monitoring dashboard for end users
+- Not an autonomous decision system
 
 ---
 
-## Evidence Model (Core)
+## Mandatory Enforcement Chain
 
-Every AI-relevant activity should be captured as a structured event with:
-- **who** initiated the AI request (actor class + identity)
-- **what** the AI was asked to do (request type + scope)
-- **under what authority** (governance_id / approval context)
-- **under what compliance profile** (jurisdiction)
-- **what the AI returned** (output summary + safety flags)
-- **what happened next** (human decision + execution result)
-- **when** it occurred (timestamps)
-- **integrity** (hashes / signatures where applicable)
+All AI-assisted execution **must** follow this chain:
 
----
+**Constitution**  
+→ **TEOS-FORGE**  
+→ **TEOS-Governance**  
+→ **TEOS Egypt Compliance Kit**  
+→ **TEOS AI Guard** (control & approval)  
+→ **TEOS AI Auditor** (evidence & logging)  
+→ Teos Sovereign System (execution)  
+→ APIs / SDKs / Services
 
-## Audit Chain Requirements
-
-AI audit evidence must be:
-- **immutable** (append-only)
-- **complete** (no silent drops)
-- **exportable** (regulator-friendly formats)
-- **searchable** (by entity_id, governance_id, time range)
-- **reconcilable** (cross-check against system execution logs)
+Any AI action lacking audit evidence is  
+**non-compliant, invalid, and unauthorized**.
 
 ---
 
-## Export & Reporting (RFP / Regulator Friendly)
+## Core Responsibilities
 
-Typical exports include:
-- AI usage by service, institution, jurisdiction
-- high-risk outputs and escalation events
-- identity assessment decision trails
-- compliance failures and blocked executions
-- governance approval linkage (decision → enforcement)
-- incident evidence bundles
-
-Recommended formats:
-- JSONL for event streams
-- CSV extracts for oversight teams
-- PDF evidence bundles for formal review (optional)
+| Domain | Responsibility |
+|------|----------------|
+| Evidence Capture | AI inputs, outputs, and decisions |
+| Approval Trace | Human-in-the-loop records |
+| Explainability | Decision rationale & metadata |
+| Immutable Logs | Tamper-resistant audit trails |
+| Incident Review | Post-event analysis & reports |
+| Regulatory Export | Audit packages for authorities |
 
 ---
 
-## Ecosystem Dependencies
+## Supported Audit Domains
 
-This audit layer integrates with:
-- **Teos-Sovereign-System** (kernel authority model)
-- **TEOS-Governance** (decision rules and approvals)
-- **TEOS-Egypt-Compliance-Kit** (jurisdiction profiles)
-- **TEOS-AI-Guard** (safety and enforcement gates)
-- **TEOS-Identity-Insight-AI** (risk signals)
-- **TEOS-API-Sovereign** (API-level enforcement and logs)
+- Identity & risk AI
+- Compliance and regulatory AI
+- Financial and fraud AI
+- Civic and governmental AI
+- AI-assisted decision workflows
 
-All TEOS AI-enabled services must emit evidence compatible with TEOS-AI-Auditor.
+---
+
+## Core Principles
+
+1. Auditability before automation  
+2. Evidence before execution  
+3. Human accountability before AI output  
+4. Traceability before scale  
+5. Sovereignty before opacity  
+
+---
+
+## Ecosystem Integration
+
+This repository integrates under governance control with:
+
+- **TEOS-AI-Guard** — control & approval
+- **TEOS-Governance** — authority & policy
+- **TEOS-Egypt-Compliance-Kit** — legal enforcement
+- **TEOS-Identity-Insight-AI** — risk signals (decision support only)
+- **Teos Sovereign System** — execution backbone
+
+All integrations remain subject to sovereign oversight.
 
 ---
 
 ## ⚠️ Usage Notice
 
-Any deployment that suppresses audit evidence, bypasses logging,
-or produces unverifiable AI actions is **non-compliant and unauthorized**.
+Any AI-assisted action not recorded by TEOS AI Auditor
+is considered **unauditable and unauthorized**
+within the TEOS ecosystem.
+
+AI evidence is **mandatory** for:
+- execution
+- review
+- dispute resolution
+- regulatory reporting
+
+**Final accountability remains human and institutional.**
 
 ---
 
-## ⚖️ License
+## ⚖️ License & Authority
 
-This repository is governed exclusively by the  
+This repository is governed **exclusively** by the  
 **TEOS Egypt Sovereign License (TESL)**.
 
-Canonical license (single source of truth):  
-https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
+- **Canonical License (single source of truth):**  
+  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
 
----
+- **Status:** Proprietary • Source-Available  
+- **Authority:** Elmahrosa International  
 
-**Authority:** Elmahrosa International  
-📧 ayman@teosegypt.com  
+📧 ayman@teosegypt.com
 
-🇪🇬 *Audit engineered in Egypt — defensible for nations worldwide.*
+🇪🇬 *AI audit engineered in Egypt — trusted by nations worldwide.*
