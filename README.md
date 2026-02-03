@@ -1,231 +1,111 @@
-# 🔍 TEOS AI Auditor | ELMAHROSA
-
-**Sovereign AI Audit, Evidence & Accountability Layer**
-
 <div align="center">
 
-![CI](https://github.com/Elmahrosa/TEOS-AI-Auditor/actions/workflows/ci.yml/badge.svg?branch=main)
+# 🔎 TEOS AI Auditor
+### Sovereign AI Traceability & Forensic Evidence Layer
+
 ![Standing](https://img.shields.io/badge/Standing-Sovereign%20AI%20Audit-blue?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Forensic_Accountability-gold?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-TESL%20Canonical-red?style=for-the-badge)
+![Audit](https://img.shields.io/badge/Trust-Tamper--Evident-green?style=for-the-badge)
+
+**If it cannot be audited, it cannot be executed.**
 
 </div>
 
 ---
 
-## 🏛️ Constitutional Authority
-
-This repository derives its authority from the  
-**International Civic Blockchain Constitution (ICBC)**:
-
-https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
-
-Any implementation or use must comply with **ICBC** and **TESL**.
+> ⚖️ **Governance Protocol** > This audit layer is strictly subordinate to the **International Civic Blockchain Constitution (ICBC)**.  
+> It provides the cryptographically signed "Chain of Evidence" required for every AI-assisted action within the Sovereign Stack.
 
 ---
 
-## 📍 Repository Standing
+## 🏛️ Strategic Standing
+The **TEOS AI Auditor** is the official accountability layer of the Elmahrosa Sovereign Stack. It ensures that every automated signal, risk score, and policy recommendation is recorded in a tamper-evident, permanent ledger.
 
-This repository is the **official AI audit, evidence, and accountability layer**
-of the **TEOS / Elmahrosa Sovereign Stack**.
+This module provides the "Reasoning Trace" that allows regulators, courts, and International Financial Institutions (IFIs) to verify that AI was used legally, ethically, and strictly as decision-support for authorized human institutions.
 
-It provides **immutable traceability, evidence generation, and institutional audit**
-for all AI-assisted actions executed within TEOS.
-
-**Authority:** Elmahrosa International — TEOS Egypt  
-**Founder:** Ayman Seif
+- **Mandate:** Immutable traceability, non-repudiation, and forensic-grade evidence generation.
+- **Authority Level:** AI Accountability (Subordinate to FORGE & ICBC).
+- **Core Principle:** Transparency is a mandatory prerequisite for execution.
 
 ---
 
-## 🔗 Constitutional & Governance Anchors (Read First)
+## 🧾 The Audit Doctrine: "Justice-Grade" Transparency
+To maintain institutional trust, TEOS-AI-Auditor enforces a "No-Shadow" policy:
 
-All authority derives from the  
-**International Civic Blockchain Constitution** (single source of truth):
-
-- **ICBC — Supreme Charter**  
-  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
-
-Governance and lifecycle stewardship are anchored in:
-
-- **TEOS-FORGE — Governance & Stewardship Anchor**  
-  https://github.com/Elmahrosa/TEOS-FORGE
-
-License authority:
-
-- **TEOS Egypt Sovereign License (TESL)**  
-  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
-
-This repository operates **strictly subordinate** to the above authorities.
+* **Cryptographic Signing:** All audit trails are hashed and signed against the constitutional Root of Trust.
+* **Non-Repudiation:** Human approvals and overrides are permanently linked to the specific AI signals they authorized.
+* **Explainability:** Captures the "Rationate Metadata" to ensure AI outputs are not "Black Boxes" but explainable events.
+* **Legal Admissibility:** Audit packages are formatted to be exportable for judicial or regulatory review.
 
 ---
 
-## 🧾 Audit Doctrine
+## ✅ Core Functional Responsibilities
 
-**Born in Egypt for the World**  
-*Built in Egypt. Engineered for Nations. Scaled for the World.*
-
-AI must be **auditable**.  
-Automation must be **traceable**.  
-Authority must be **provable**.
-
-No AI action is legitimate unless it is:
-- logged  
-- explainable  
-- attributable  
-- reviewable by humans and institutions  
+| Responsibility | Institutional Value |
+| :--- | :--- |
+| **Evidence Capture** | Logs AI inputs, weights, and outputs in real-time. |
+| **Approval Tracking** | Records the specific human credential that ratified an AI-assisted action. |
+| **Explainable Metadata** | Maintains the "Logic Path" used by the AI to arrive at a risk signal. |
+| **Tamper-Evident Logging** | Ensures that audit records cannot be altered or deleted by any system actor. |
+| **Regulatory Export** | Generates certified "Audit Bundles" for national or international inspectors. |
 
 ---
 
-## 🔎 Transparency Policy (CRITICAL)
-
-**TEOS-AI-Auditor enforces full transparency by design.**
-
-- **All AI audit trails are cryptographically signed**
-- Every record is **linked to the constitutional Root of Trust (ICBC)**
-- AI inputs, outputs, approvals, and outcomes are **tamper-evident**
-- **No AI decisions are hidden, obfuscated, or unverifiable**
-- Audit records are **exportable for regulators, courts, and IFIs**
-
-> **Transparency is mandatory, not optional.**  
-> If an AI action cannot be proven, it cannot be executed.
-
-This policy guarantees:
-- Non-repudiation  
-- Legal admissibility  
-- Institutional trust  
-- Post-incident accountability  
-
----
-
-## ✅ What This Repository Is
-
-**TEOS AI Auditor** is the **evidence and accountability layer**
-for all AI-assisted decisions and executions.
-
-It is responsible for:
-
-- Capturing AI inputs, outputs, and risk signals
-- Recording human approvals and overrides
-- Emitting immutable, cryptographically verifiable logs
-- Generating audit evidence packages
-- Enabling post-incident investigation
-- Supporting compliance, legal, and forensic audits
-
-> If it cannot be audited, it cannot be executed.
-
----
-
-## ❌ What This Repository Is Not
-
-- ❌ An AI control gate (see **TEOS-AI-Guard**)  
-- ❌ A governance authority  
-- ❌ A consumer monitoring dashboard  
-- ❌ An autonomous decision system  
-
----
-
-## 🔗 Mandatory Enforcement Chain
-
-All AI-assisted execution **must** follow this chain:
+## 🔗 The Mandatory Enforcement Chain
+The Auditor acts as the final observer before an action is committed to the Sovereign Kernel.
 
 ```text
-International Civic Blockchain Constitution (ICBC)
-        ↓
-    TEOS-FORGE
-        ↓
- TEOS-Governance
-        ↓
- TEOS Egypt Compliance Kit
-        ↓
- TEOS AI Guard (Control & Approval)
-        ↓
- TEOS AI Auditor (Evidence & Logging)
-        ↓
- Teos Sovereign System (Execution)
-        ↓
- APIs / SDKs / Services
-````
+1. Supreme Constitution (ICBC)
+      ↓
+2. TEOS-FORGE (Stewardship Anchor)
+      ↓
+3. TEOS COMPLIANCE KIT (Rules)
+      ↓
+4. TEOS AI-GUARD (Control Gate)
+      ↓
+5. TEOS AI-AUDITOR [The Witness]
+      ↓
+6. Teos Sovereign System (Execution)
 
-Any AI action lacking audit evidence is
-**non-compliant, invalid, and unauthorized**.
-
----
-
-## ⚙️ Core Responsibilities
-
-| Domain            | Responsibility                  |
-| ----------------- | ------------------------------- |
-| Evidence Capture  | AI inputs, outputs, and signals |
-| Approval Trace    | Human-in-the-loop records       |
-| Explainability    | Decision rationale & metadata   |
-| Immutable Logs    | Cryptographically signed trails |
-| Incident Review   | Post-event analysis             |
-| Regulatory Export | Audit packages for authorities  |
+```
 
 ---
 
 ## 🧩 Supported Audit Domains
 
-* Identity & risk AI
-* Compliance & regulatory AI
-* Financial & fraud AI
-* Civic & governmental AI
-* AI-assisted decision workflows
+* **Sovereign Identity:** Tracking DID risk signals and verification events.
+* **Regulated Finance:** Auditing AI-driven fraud detection and AML signals.
+* **Civic Infrastructure:** Logging policy-based access to national registries.
+* **FDI & Impact:** Verifying data points used for SDG and investment reporting.
 
 ---
 
-## 🧭 Core Principles
+## ⚠️ Usage Notice: The Audit Lock
 
-1. Auditability before automation
-2. Evidence before execution
-3. Human accountability before AI output
-4. Traceability before scale
-5. Sovereignty before opacity
-
----
-
-## 🔗 Ecosystem Integration
-
-This repository integrates under governance control with:
-
-* **TEOS-AI-Guard** — control & approval
-* **TEOS-Governance** — authority & policy
-* **TEOS Egypt Compliance Kit** — legal enforcement
-* **TEOS-Identity-Insight-AI** — risk signals (decision support only)
-* **Teos Sovereign System** — execution backbone
-
-All integrations remain subject to sovereign oversight.
-
----
-
-## ⚠️ Usage Notice
-
-Any AI-assisted action **not recorded** by TEOS AI Auditor
-is considered **unauditable and unauthorized**
-within the TEOS ecosystem.
-
-AI evidence is mandatory for:
-
-* execution
-* review
-* dispute resolution
-* regulatory reporting
-
-**Final accountability remains human and institutional.**
+Any system-level execution within TEOS that bypasses the Auditor is considered **Constitutionally Void**. Audit evidence is not just a log; it is a **technical requirement for validity**.
 
 ---
 
 ## ⚖️ License & Authority
 
-This repository is governed **exclusively** by the
-**TEOS Egypt Sovereign License (TESL)**.
+Governed exclusively by the **TEOS Egypt Sovereign License (TESL)**.
 
-* **Canonical License:**
-  [https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE)
+* **Auditability:** Source-available for security review by national audit offices.
+* **Rights Holder:** Elmahrosa International.
 
-* **Status:** Proprietary • Source-Available
+---
 
-* **Authority:** Elmahrosa International
+<div align="center">
 
-📧 [ayman@teosegypt.com](mailto:ayman@teosegypt.com)
+**Founder:** Ayman Seif
 
-🇪🇬 *AI transparency and accountability — engineered in Egypt, trusted by nations worldwide.*
+**Authority:** Elmahrosa International
+
+[Audit Inquiry](mailto:ayman@teosegypt.com) | [Sovereign Infrastructure](https://teosegypt.com)
+
+*“AI transparency engineered in Egypt. Forensic accountability for the world.”*
+
+</div>
+
+```
